@@ -37,5 +37,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint && npm test"
+    }
   }
 }
