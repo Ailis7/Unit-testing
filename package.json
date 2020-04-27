@@ -1,5 +1,5 @@
 {
-  "name": "ajs",
+  "name": "hp-bar",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "coursar",
+  "author": "Ailis",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
