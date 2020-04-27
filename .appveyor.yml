@@ -18,3 +18,7 @@ build_script:
 
 test_script:
   - npm run lint && npm test  # скрипт тестирования
+
+environment:
+  access_token:
+    secure: 9oWX2/xWUL3mlTue4fp/ztaM8bTPcTZW02qRuoLXdVqB4RJ0vW+Dbue9m2QF4dmS
